@@ -7,6 +7,6 @@ To make this, I followed the [React JS tutorial](https://reactjs.org/tutorial/tu
 ### How to Run
 **According to React docs, must have Node >= 8.10 and npm >= 5.6 installed**
 1. Clone the repository using `git glone https://github.com/TeenageMutantCoder/React-Tutorial`.
-2. Change to that directory using cmd or terminal using `cd React-Tutorial`.
+2. Change to that directory using cmd or terminal with the command `cd React-Tutorial`.
 3. Run the command `npm start`
 4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
